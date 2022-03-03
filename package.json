@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "NodeJs Express boilerplate for building RESTful APIs",
   "main": "src/index.js",
+  "repository": "https://github.com/tuongmengleang/nodejs-rest-boilerplate.git",
   "author": "Tuong Mengleang <leang.dev@gmail.com>",
   "license": "MIT",
   "private": false,
